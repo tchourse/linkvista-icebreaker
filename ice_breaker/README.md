@@ -1,5 +1,3 @@
----
-
 <p align="center">
   <img src="https://github.com/tchourse/linkvista-icebreaker/raw/main/ice_breaker/assets/demo_app.gif" width="70%" alt="LinkVista Demo">
 </p>
