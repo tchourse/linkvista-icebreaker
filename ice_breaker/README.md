@@ -1,5 +1,11 @@
+Thanks for the clarification! It looks like your assets are actually located inside the **ice\_breaker/assets/** folder within your repo, not directly under root/assets.
+
+### Here's your corrected, polished, and copy-paste ready README based on your folder structure:
+
+---
+
 <p align="center">
-  <img src="https://github.com/tchourse/linkvista-icebreaker/raw/main/assets/demo_app.gif" width="70%" alt="LinkVista Demo">
+  <img src="https://github.com/tchourse/linkvista-icebreaker/raw/main/ice_breaker/assets/demo_app.gif" width="70%" alt="LinkVista Demo">
 </p>
 
 <h1 align="center">🔗 LinkVista — Icebreaker Concept</h1>
@@ -23,19 +29,19 @@
 
 ### 📁 Project Structure
 
-<img src="https://github.com/tchourse/linkvista-icebreaker/raw/main/assets/project_structure.png" width="45%" alt="Project Structure Screenshot">
+<img src="https://github.com/tchourse/linkvista-icebreaker/raw/main/ice_breaker/assets/project_structure.png" width="45%" alt="Project Structure Screenshot">
 
 <br><br>
 
 ### 🧩 Core Icebreaker Function
 
-<img src="https://github.com/tchourse/linkvista-icebreaker/raw/main/assets/icebreaker_function.png" width="60%" alt="Icebreaker Function Screenshot">
+<img src="https://github.com/tchourse/linkvista-icebreaker/raw/main/ice_breaker/assets/icebreaker_function.png" width="60%" alt="Icebreaker Function Screenshot">
 
 <br><br>
 
 ### 💻 Terminal Output - Running the App
 
-<img src="https://github.com/tchourse/linkvista-icebreaker/raw/main/assets/terminal_output.png" width="60%" alt="Terminal Output Screenshot">
+<img src="https://github.com/tchourse/linkvista-icebreaker/raw/main/ice_breaker/assets/terminal_output.png" width="60%" alt="Terminal Output Screenshot">
 
 </div>
 
@@ -51,42 +57,6 @@
 
 ---
 
-## 🌐 **Getting Started**
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/tchourse/linkvista-icebreaker.git
-cd linkvista-icebreaker
-```
-
-### 2. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Configure Environment Variables
-
-Create a `.env` file and add:
-
-```bash
-OPENAI_API_KEY=your_openai_key
-PROXYCURL_API_KEY=your_proxycurl_key
-TAVILY_API_KEY=your_tavily_key
-```
-
----
-
-## 🚀 **Run the Application**
-
-```bash
-python app.py
-```
-
-Visit: `http://127.0.0.1:5000`
-
----
 
 ## 💡 **Features**
 
@@ -115,7 +85,6 @@ This is a personal learning project focused on:
 
 ---
 
-⚠ **Note:** This project uses paid APIs like OPEN API also Free Trial Versions like Proxycurl and Tavily.
+⚠ **Note:** This project uses paid APIs like OPEN AI also Free Trial like Proxycurl and Tavily. 
 
----
 
