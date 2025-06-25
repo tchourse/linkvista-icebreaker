@@ -29,7 +29,7 @@ Thanks for the clarification! It looks like your assets are actually located ins
 
 ### 📁 Project Structure
 
-<img src="https://github.com/tchourse/linkvista-icebreaker/raw/main/ice_breaker/assets/project_structure.png" width="45%" alt="Project Structure Screenshot">
+<img src="https://github.com/tchourse/linkvista-icebreaker/raw/main/ice_breaker/assets/project_structure.png" width="20%" alt="Project Structure Screenshot">
 
 <br><br>
 
