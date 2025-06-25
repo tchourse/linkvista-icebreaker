@@ -1,7 +1,3 @@
-Thanks for the clarification! It looks like your assets are actually located inside the **ice\_breaker/assets/** folder within your repo, not directly under root/assets.
-
-### Here's your corrected, polished, and copy-paste ready README based on your folder structure:
-
 ---
 
 <p align="center">
