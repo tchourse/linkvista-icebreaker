@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+
+# Python Bytecode
+__pycache__/
+*.pyc
+
+# IDE Config
+.idea/
+
+# System Files
+.DS_Store
+desktop.ini
+
+# Sensitive Files
+.env
+icebreaker imp.txt
+
